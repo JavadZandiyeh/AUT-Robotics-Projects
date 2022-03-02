@@ -31,7 +31,7 @@ In this course, we will work with ros-noetic and gazebo simulator<br/>
 ## Creating ROS Node
 - **run master**<br/>
 in terminal 1 run:<br>
-`cd Desktop/catkin_ws1`
+`cd Desktop/catkin_ws1`<br/>
 `roscore`
 
 - **ros run**<br/>
