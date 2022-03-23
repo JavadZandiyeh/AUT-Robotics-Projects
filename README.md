@@ -7,7 +7,7 @@ In this course, we will work with ros-noetic and gazebo simulator<br/>
 - [ROS Help](#ros-help)
 - [Creating ROS Node](#creating-ros-node)
 
-## Creating a ROS catkin Workspace
+## Creating a ROS Catkin Workspace
 `cd Desktop/`<br/>
 `mkdir -p catkin_ws1/src`<br/>
 `cd catkin_ws1/src/`<br/>
