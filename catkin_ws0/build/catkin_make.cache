@@ -1,0 +1,2 @@
+student_filter
+-DCATKIN_DEVEL_PREFIX=/home/javad/Desktop/Robotics/AUT-Robotics/catkin_ws0/devel -DCMAKE_INSTALL_PREFIX=/home/javad/Desktop/Robotics/AUT-Robotics/catkin_ws0/install -G Unix Makefiles

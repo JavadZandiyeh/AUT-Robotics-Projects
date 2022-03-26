@@ -1,0 +1,8 @@
+prefix=/home/javad/Desktop/Robotics/AUT-Robotics/catkin_ws0/install
+
+Name: student_filter
+Description: Description of student_filter
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
