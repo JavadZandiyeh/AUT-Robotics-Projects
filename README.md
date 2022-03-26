@@ -14,7 +14,6 @@ In this course, we will work with ros-noetic and gazebo simulator<br/>
 `catkin_init_workspace`<br/>
 `cd ..`<br/>
 `catkin_make`<br/>
-`. devel/setup.bash`<br/>
 
 ## Creating a ROS Package
 `cd Desktop/catkin_ws1/src/`<br/>
@@ -23,6 +22,8 @@ In this course, we will work with ros-noetic and gazebo simulator<br/>
 ## ROS Help
 - ros packages help:
 `rospack help`
+- for every terminal run:
+`. devel/setup.bash`
 - ros change directory:
 `roscd package_name`
 - check dependencies:
@@ -40,5 +41,4 @@ in terminal 2 run:<br/>
 `touch node_name.py`<br/>
 `chmod +x node_name.py`<br/>
 `cd ../../..`<br/>
-`. devel/setup.bash`<br/>
 `rosrun package_name node_name.py`
