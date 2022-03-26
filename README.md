@@ -28,13 +28,13 @@ In this course, we will work with ros-noetic and gazebo simulator<br/>
 - check dependencies:
 `rospack depends package_name`
 
-## Creating ROS Node
-- **run master**<br/>
+## Creating and Running ROS Node
+- **run master node**<br/>
 in terminal 1 run:<br>
 `cd Desktop/catkin_ws1`<br/>
 `roscore`
 
-- **ros run**<br/>
+- **run non-master node**<br/>
 in terminal 2 run:<br/>
 `cd Desktop/catkin_ws1/src/package_name/src/`<br/>
 `touch node_name.py`<br/>
